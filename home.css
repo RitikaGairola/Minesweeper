@@ -1,0 +1,32 @@
+*
+{
+    background-color: #3F304A;
+}
+img
+{
+    width: 432px;
+    height: 700px;
+}
+body {
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+  .container {
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  a {
+    margin-top: 30px;
+    padding: 15px 20px;
+    background: #52caee;
+    font-size: 2rem;
+    text-decoration: none;
+    color: #333333;
+    border-radius: .25rem;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.808)
+  }
